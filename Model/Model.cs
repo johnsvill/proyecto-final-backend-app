@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AppAlmacenPF.Model
+namespace AppAlmacenPF.ModelView
 {
-    public class Model
+    class Model
     {
     }
 }
