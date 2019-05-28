@@ -12,9 +12,9 @@ namespace AppAlmacenPF.Entities
         public int Codigo_Categoria { get; set; }
         public int Codigo_Empaque { get; set; }
         public string Descripcion { get; set; }
-        public decimal Precio_Unitario { get; set; }
-        public decimal Precio_por_Docena { get; set; }
-        public decimal Precio_por_Mayor { get; set; }
+        public Decimal Precio_Unitario { get; set; }
+        public Decimal Precio_por_Docena { get; set; }
+        public Decimal Precio_por_Mayor { get; set; }
         public int Existencia { get; set; }
         public string Imagen { get; set; }
         public virtual Categoria Categoria { get; set; }//Relación muchos a uno

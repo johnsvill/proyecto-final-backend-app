@@ -10,21 +10,21 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
+using AppAlmacenPF.ModelView;
 using AppAlmacenPF.View;
 
-namespace AppAlmacenPF
+namespace AppAlmacenPF.View
 {
     /// <summary>
-    /// Lógica de interacción para MainWindow.xaml
+    /// Lógica de interacción para ProductoView.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class ProductoView : Window
     {
-        public MainWindow()
+        public ProductoView()
         {
             InitializeComponent();
-            new ProductoView().Show(); //Para que compile en modo gráfico
+            this.DataContext = new ProductoModelView(); //Para enlazar el archivo del mismo nombre sin la extensión .cs (Modelo de datos"C#" con la ventana "WPF")
         }
     }
 }

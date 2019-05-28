@@ -18,3 +18,4 @@ C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlm
 C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\AppAlmacenPF.csproj.CopyComplete
 C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\AppAlmacenPF.exe
 C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\AppAlmacenPF.pdb
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\View\ProductoView.g.cs
