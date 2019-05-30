@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AppAlmacenPF.ModelView;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,26 +11,20 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 using AppAlmacenPF.View;
-using AppAlmacenPF.Entities;
-using AppAlmacenPF.DataContext;
-using AppAlmacenPF.ModelView;
 
-namespace AppAlmacenPF
+namespace AppAlmacenPF.View
 {
     /// <summary>
-    /// Lógica de interacción para MainWindow.xaml
+    /// Lógica de interacción para CategoriaView.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class CategoriaView : Window
     {
-        public MainWindow()
+        public CategoriaView()
         {
             InitializeComponent();
-            new ProductoView().Show(); //Para que compile en modo gráfico
-            new CategoriaView().Show();
-            new InventarioView().Show();
+            this.DataContext = new CategoriaModelView();//Para enlazar el archivo del mismo nombre sin la extensión .cs (Modelo de datos"C#" con la ventana "WPF")
         }
     }
 }
