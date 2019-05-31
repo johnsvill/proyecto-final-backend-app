@@ -66,11 +66,17 @@
     <Compile Include="View\CategoriaView.xaml.cs">
       <DependentUpon>CategoriaView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="View\DetalleCompraView.xaml.cs">
+      <DependentUpon>DetalleCompraView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\InventarioView.xaml.cs">
       <DependentUpon>InventarioView.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\ProductoView.xaml.cs">
       <DependentUpon>ProductoView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\TipoEmpaqueView.xaml.cs">
+      <DependentUpon>TipoEmpaqueView.xaml</DependentUpon>
     </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -103,11 +109,19 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="View\DetalleCompraView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="View\InventarioView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="View\ProductoView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\TipoEmpaqueView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
