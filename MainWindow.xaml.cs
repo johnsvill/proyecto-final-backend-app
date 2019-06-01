@@ -32,6 +32,9 @@ namespace AppAlmacenPF
             new InventarioView().Show();
             new TipoEmpaqueView().Show();
             new DetalleCompraView().Show();
+            new DetalleFacturaView().Show();
+            new EmailProveedorView().Show();
+            new CompraView().Show();
         }
     }
 }

@@ -66,8 +66,17 @@
     <Compile Include="View\CategoriaView.xaml.cs">
       <DependentUpon>CategoriaView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="View\CompraView.xaml.cs">
+      <DependentUpon>CompraView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\DetalleCompraView.xaml.cs">
       <DependentUpon>DetalleCompraView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\DetalleFacturaView.xaml.cs">
+      <DependentUpon>DetalleFacturaView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\EmailProveedorView.xaml.cs">
+      <DependentUpon>EmailProveedorView.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\InventarioView.xaml.cs">
       <DependentUpon>InventarioView.xaml</DependentUpon>
@@ -109,7 +118,19 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="View\CompraView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="View\DetalleCompraView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\DetalleFacturaView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\EmailProveedorView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

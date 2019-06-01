@@ -9,6 +9,9 @@ namespace AppAlmacenPF.ModelView
         public object Inventarios { get; internal set; }
         public object TipoEmpaques { get; internal set; }
         public object DetalleCompras { get; internal set; }
+        public object DetalleFacturas { get; internal set; }
+        public object EmailProveedores { get; internal set; }
+        public object Compras { get; internal set; }
 
         internal void SaveChanges()
         {

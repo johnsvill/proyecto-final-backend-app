@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\App.xaml
-2-814803278
+8-185231134
 
-37-2012084323
+47-202771520
 16-606495203
-MainWindow.xaml;View\ProductoView.xaml;
+MainWindow.xaml;View\CategoriaView.xaml;View\DetalleCompraView.xaml;View\DetalleFacturaView.xaml;View\EmailProveedorView.xaml;View\InventarioView.xaml;View\ProductoView.xaml;View\TipoEmpaqueView.xaml;
 
 True
 
