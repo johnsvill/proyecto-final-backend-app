@@ -19,3 +19,13 @@ C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlm
 C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\AppAlmacenPF.exe
 C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\AppAlmacenPF.pdb
 C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\View\ProductoView.g.cs
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\View\CategoriaView.g.cs
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\View\ClienteView.g.cs
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\View\CompraView.g.cs
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\View\DetalleCompraView.g.cs
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\View\DetalleFacturaView.g.cs
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\View\EmailProveedorView.g.cs
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\View\FacturaView.g.cs
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\View\InventarioView.g.cs
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\View\ProveedorView.g.cs
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\PROYECTO FINAL\C#\AppAlmacenPF\AppAlmacenPF\obj\Debug\View\TipoEmpaqueView.g.cs

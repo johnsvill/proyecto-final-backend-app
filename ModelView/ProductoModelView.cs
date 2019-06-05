@@ -261,7 +261,14 @@ namespace AppAlmacenPF.ModelView
             this.Instancia = this;//Se hace referencia a la instancia que se creo
             this.Titulo = "Lista de Productos:";//Se inicializa el nombre del título
         }
+
+        internal void SaveChanges()
+        {
+            throw new NotImplementedException();
+        }
+
         public string Titulo { get; set; }
+        public object Proveedores { get; internal set; }
 
         //INTERFAZ ICommand
         public event PropertyChangedEventHandler PropertyChanged;

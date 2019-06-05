@@ -27,7 +27,7 @@ namespace AppAlmacenPF
         public MainWindow()
         {
             InitializeComponent();
-            new ProductoView().Show(); //Para que compile en modo gráfico
+            new ProductoView().Show();//Para que compile en modo gráfico
             new CategoriaView().Show();
             new InventarioView().Show();
             new TipoEmpaqueView().Show();
@@ -35,6 +35,12 @@ namespace AppAlmacenPF
             new DetalleFacturaView().Show();
             new EmailProveedorView().Show();
             new CompraView().Show();
+            new FacturaView().Show();            
+            new ProveedorView().Show();
+            new ClienteView().Show();
+            new TelefonoProveedorView().Show();
+            new EmailClienteView().Show();
+            new TelefonoClienteView().Show();
         }
     }
 }
